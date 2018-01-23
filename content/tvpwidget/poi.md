@@ -79,7 +79,9 @@
             "video_item_image_icon_border_radius": "100%",
             "video_item_image_icon_border_color": "rgba(40, 6, 255, 1)",
             "video_item_image_icon_background_color": "rgba(14, 255, 0, 1)",
-            "video_item_image_icon_color": "rgba(0, 255, 221, 1)"
+            "video_item_image_icon_color": "rgba(0, 255, 221, 1)",
+            "video_item_image_icon_hover_background_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_icon_hover_color": "rgba(222, 255, 0, 1)"
         }
     }
 }
