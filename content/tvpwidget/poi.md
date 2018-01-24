@@ -7,7 +7,7 @@
     "css": {
         ".widget-body": {
             "body_font_family": "Open Sans",
-            "widget_background_color": "rgba(0, 0, 0, 0)",
+            "widget_background_color": "rgba(255, 0, 0, 1)",
             "widget_padding_top": "25",
             "widget_padding_right": "25",
             "widget_padding_bottom": "25",
