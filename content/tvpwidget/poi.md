@@ -86,7 +86,7 @@
         ".widget-modal-body": {
             "widget_modal_body_background_color": "rgba(9, 255, 0, 1)",
             "widget_modal_body_border_color": "rgba(0, 246, 255, 1)",
-            "widget_modal_body_border_width": "20",
+            "widget_modal_body_border_width": "13",
             "widget_modal_body_border_style": "solid",
             "widget_modal_body_padding_top": "20",
             "widget_modal_body_padding_right": "20",
