@@ -7,7 +7,7 @@
     "css": {
         ".widget-body": {
             "body_font_family": "Open Sans",
-            "widget_background_color": "rgba(0, 0, 0, 0)",
+            "widget_background_color": "blue",
             "widget_padding_top": "25",
             "widget_padding_right": "25",
             "widget_padding_bottom": "25",
@@ -17,7 +17,7 @@
             "widget_border_color": "rgba(237, 255, 0, 1)"
         },
         ".widget-title": {
-            "widget_title_html": "Comrade Widget",
+            "widget_title_html": "l",
             "widget_title_font_size": "50px",
             "widget_title_font_weight": "bolder",
             "widget_title_color": "rgba(255, 241, 0, 1)",
@@ -59,7 +59,7 @@
             "video_item_padding_left": "20",
             "video_item_border_style": "outset",
             "video_item_border_width": "20",
-            "video_item_border_color": "rgba(226, 255, 0, 1)",
+            "video_item_border_color": "green",
             "video_item_border_radius": "22%",
             "video_item_background_color": "rgba(54, 138, 54, 1)",
             "video_item_color": "rgba(255, 245, 0, 1)",
@@ -86,7 +86,7 @@
         ".widget-modal-body": {
             "widget_modal_body_background_color": "rgba(9, 255, 0, 1)",
             "widget_modal_body_border_color": "rgba(0, 246, 255, 1)",
-            "widget_modal_body_border_width": "20",
+            "widget_modal_body_border_width": "13",
             "widget_modal_body_border_style": "solid",
             "widget_modal_body_padding_top": "20",
             "widget_modal_body_padding_right": "20",
@@ -118,7 +118,7 @@
             "product_item_margin_left": "10",
             "product_item_border_width": "6",
             "product_item_border_color": "rgba(255, 0, 0, 1)",
-            "product_item_border_style": "dashed"
+            "product_item_border_style": "none"
         },
         ".product-item-image-overlay": {
             "product_item_image_overlay_background_color": "rgba(0, 0, 0, 1)",
@@ -169,6 +169,11 @@
             "product_pop_over_cta_font_size": "20px",
             "product_pop_over_cta_width": "19",
             "product_pop_over_cta_style": "dashed"
+        },
+        ".widget-modal-close": {
+            "widget_modal_close_size": "50px",
+            "widget_modal_close_color": "rgba(255, 0, 0, 1)",
+            "widget_modal_close_opacity": "1"
         }
     }
 }
